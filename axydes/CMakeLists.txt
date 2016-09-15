@@ -1,3 +1,0 @@
-Project(axydes)
-
-subdirs(DuCTT)

@@ -1,5 +1,0 @@
-Project(btietz)
-
-subdirs(
-    chrono
-)
